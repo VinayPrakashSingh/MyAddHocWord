@@ -4,7 +4,7 @@ list.of.packages <- c("data.table","bit64","optimx","lme4",'languageR','lmerTest
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages,require,character.only=TRUE)
 
-path="D:\\MCOE_DEV\\MMT_NEW_THINGS\\Ancova\\48\\"
+path="D:\\XXXXXXXX\\Ancova\\48\\"
 
 setwd(path)
 
