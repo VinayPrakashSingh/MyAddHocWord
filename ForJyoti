@@ -9,17 +9,18 @@ I being part of XXXXX MCoE development team, serve for leading insight provider 
 
 My job responsibilities of the proposed project involves
 
-1)	New retailer onboarding: This involves receiving retailer data in Data Lake, validating information mapping with table and 
-schema. Multiple measures has to be followed for data validation like UPC numbers, price, quantity are correct for over the 
-period and in line with other data sets like POS. After retailers data validation, we do lift studies individual for the 
-retailers and compare metrics with other retailers of same channel as well as other channels to understand the impact of 
+1)	New retailer onboarding: This involves receiving retailers data in Data Lake, validating with the mapping table and 
+schema. Multiple measures has to be followed for data validations like UPC numbers, prices, quantity of data over the period 
+and that it should be in line with other data sets like POS. After retailers data validation, lift studies being performed for 
+individual retailers and compare metrics with other retailers of same channel as well as other channels to understand the impact of 
 adding new retailers into production.  
-2)	Open source development: Every organization now focuses on development of analytics solution to provider affordable and 
-faster insight to their clients. My involvement in the task includes collation of required details for designing On-Demand 
-solution, developing analytics part in open source software, integration with On-Demand and QC
+2)	Open source development: Every organization now focuses on development of analytics solution to provide affordable and 
+fastest way of deriving insight for their clients. And, I am invovled in the collation of required details for designing On-Demand 
+solution, developing analytics code base in open source software and integration with on-Demand and QC work.
 3)	MULO Development: Every outlet has specific customer behavior for specific campaign and running combined campaign at Total 
-US level including all the retailers most of the time does not stays relevant with observed behavior. We come up with an idea 
-of MULO projection to provide insight for campaign, which includes various rules, and projection using multiple datasets.
+US level includes all the retailers. This way it is most of the time do not associate with relevant or observed behavior. To help this, 
+we come up with an idea of MULO projection to provide insight for campaign, which includes various rules, and projection using multiple 
+datasets.
 
 
 
@@ -28,25 +29,25 @@ of job responsibilities, duties and activities you are currently responsible for
 (Please note the information you provide forms the basis for petition preparation. You need to be as elaborative as possible while writing down the job duties).
 ----------This is related with current postion-----
 
-I mostly work for our US based client XXX. I am also part of XXXXX Innovation Council whose responsibilities of development 
-of new solution for our client using Open Source, Statistics, Machine Learning and Deep learning.
+I majorly work for our US based clients XXX. I am also part of XXXXX Innovation Council who is responsible for developing new solution 
+for our client using Open Source, Statistics, Machine Learning and Deep learning.
 
 
 Q3. What knowledge of XXXXX systems, applications, methodologies and/or procedures does the employee possess that a non-XXXXX employee would not possess? 
-•	XXXXX proprietary Multi Outlet (MULO) solutions for leading media lift client. 
-•	Understanding of Media Lift Campaigns and deriving business insights for clients using lift product solutions
+•	With my expereince and training I have gained good knowledge of XXXXX proprietary Multi Outlet (MULO) solutions for leading media lift client. 
+•	I also have understanding of Media Lift Campaigns and deriving business insights for clients using lift product solutions
 •	Knowledge on XXX Retailers data, Frequency Shopper Program, Point of Sale, Experian, methodologies for new retailer onboarding.
 •	Designing requirement specification for On-Demand solutions, which helps producing analysis of media campaign in stipulated time and could be accessible by client.
 •	Implementation of business methodologies using advance knowledge of open source software R, Julia, Python, Hadoop, Hive, UNIX Shell Scripting and integration of multiple technologies and data exchange to deploy solution.
-•	Visualization tools Tableau, R Shiny and DB platform SQL Server.
+•	Experties on visualization tools like Tableau, R Shiny and DB platform SQL Server.
 
 
 Q4	Does employee work on a XXXXX proprietary application, system, technology or methodology?  If yes, please explain in detail and describe how it is proprietary. 
 •	Yes, I have designed and developed MULO methodology for media lift studies. 
 •	Media lift team delivers ROI due to impact of ads targeted for certain UPCs or brand in US market. It primarily uses exposure 
 and FSP (Frequency Shopper Program) data from retailers across US. 
-•	IRI provides access of FSP data for few retailers from four outlets and providing lift using only those outlets gives 
-biased ROI. 
+•	Worked on IRI, which provides access of FSP data for few retailers from four outlets and providing lift using only those outlets to 
+gives biased ROI. 
 •	Getting FSP data for all the retailers is costly so Genpact has developed MULO methodology which uses sales information 
 from POS and NCP and uses projection methodology to calculate lift for the missing outlets which helps providing ROI for 
 majority of outlets in US.
@@ -60,13 +61,16 @@ NA
 Q6.	Explain how employee's specialized knowledge is significantly different from the knowledge generally applied by other practitioners in the field of activity.
 
 •	Due to better understanding of all available FSP retailers and outlets behaviors in US market helped me laying out the rules 
-for MULO. Client is acquiring newer retailers/outlets so the MULO methodologies needs evolving. Also, good knowledge of open 
-source software and business rules helps designing requirement document for On-Demand solutions. Most of the other team members 
-in MCoE does not know one or other. 
+for MULO. Client is acquiring newer retailers/outlets so the MULO methodologies needs to evovle to accommodate new requirements and this 
+is one of the area where I will be working onto. Also, good knowledge of open source software and business rules helps designing 
+requirement document for On-Demand solutions. Most of the other team members in MCoE does not know one or other. 
 
 
 Q7.	How is the employee’s specialized knowledge more advanced than basic or elementary knowledge?
-•	I am more close to POS and FSP retailers and developed data prep for media lift studies. I am also continuously part of lift delivery and explaining those to onshore. This gradually developed in-depth understanding of FSP/POS data, ad-agencies programs and lift. This helped me being core member of new FSP data acquisition, developing and managing existing products with the help of evolving open source in market.
+•	I am more close to POS and FSP retailers and developed data prep for media lift studies. I am also continuously part of lift 
+delivery and explaining those to onshore. This gradually developed in-depth understanding of FSP/POS data, ad-agencies programs 
+and lift. This helped me being core member of new FSP data acquisition, developing and managing existing products with the help of 
+evolving open source technologies in market.
 
 Q7. 	What specific Genpact training has employee completed?   Please include copies of all relevant certificates.
 •	Tableau
@@ -79,7 +83,8 @@ Q7. 	What specific Genpact training has employee completed?   Please include cop
 
 
 Q8. 	What is the aim or goal of your client engagement?  What does the client hope to gain by partnering with XXX?
-•	Media lift methodology has evolved over last 3-4 years because of more understanding on product, competitive methodologies, growing data size, newer open source to handle such data. Gradual change in methodology needs to be researched and validated. 
+•	Media lift methodology has evolved over last 3-4 years because of more understanding on product, competitive methodologies,
+growing data size, newer open source to handle such data. Gradual change in methodology needs to be researched and validated. 
 
 Q9.	Why was employee selected for this assignment?
 •	This assignment involves many retailers data acquisition in which client needs quick changes in existing MULO product methodologies.
@@ -90,11 +95,11 @@ developments skill which helps in implementing the required changes as per clien
 
 
 Q10.	How is this specialized knowledge going to be used in the U.S.?
-•	Client is adding new retailers every month and faster research is required to setup new MULO rules for newly added retailers, 
-and integration with existing on-demand solutions.
-•	Client needs business insight of different campaign with standard and MULO lift methodologies
-•	US stakeholders are looking for faster development of new on-demand solution to server more clients.
-•	Getting new retailers on boarding is moves slower because tech team is based out of Chicago, US and they look for continuous 
+•	I gonna use the knoweldge in providng solution to client's urging requirements like client is adding new retailers every month and 
+faster research is required to setup new MULO rules for newly added retailers, and integration with existing on-demand solutions.
+•	Client also needs business insight of different campaign with standard and MULO lift methodologies
+•	US stakeholders are looking for faster development of new on-demand solution to serve more clients.
+•	On boarding of new retailers is getting slower because tech team is based out of Chicago, US and they look for continuous 
 feedback and inputs from us.
 
 Q11. 	Please provide a more detailed description of employee's prospective duties, activities and responsibilities in the US.
