@@ -1,0 +1,7 @@
+from gensim.summarization import summarize
+
+print(keywords(text))
+seperator = '\n'
+feedback = feedback_data.loc[(feedback_data['sentiment_score'] >=0) , 'Review'] .tolist()
+feedback_str = seperator.join(feedback)
+print(summarize(feedback_str[0:10000]))
